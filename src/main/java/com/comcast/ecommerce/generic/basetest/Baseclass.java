@@ -65,7 +65,7 @@ public class Baseclass {
 	}
 	@AfterClass
 	public void configAC() {
-		System.out.println("==close the browsers==");
+		System.out.println("==close the browser==");
 	}
 	
 	@AfterSuite
